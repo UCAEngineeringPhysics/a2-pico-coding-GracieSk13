@@ -11,6 +11,6 @@ while True:
     for duty in range(65536):
         dimmer.duty_u16(duty)
         sleep(0.0001)
-    for duty in range(65535, 0, -1):
+    for duty in range(65535, 2, -1):
         dimmer.duty_u16(duty)
         sleep(0.0001)
