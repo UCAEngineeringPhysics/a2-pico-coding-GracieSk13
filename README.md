@@ -55,6 +55,13 @@ Please write out the equation of the duty cycle's **increment** value, $s$, belo
 
 > Type equation with LaTex syntax here.
 
+$` \Delta t = \frac{T}{n} `$ where $` \Delta t `$ is the time per increment 
+
+so...
+
+$` s = \frac{D_{max}}{T} (\Delta t)`$
+
+
 > [!TIP]
 > - Writing mathematical expressions [guide](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 > - LaTex math [cheat sheet](https://tug.ctan.org/info/undergradmath/undergradmath.pdf) for undergrads
